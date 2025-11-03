@@ -10,7 +10,7 @@ Como usar:
     python todo.py clear
 
 O arquivo de dados é criado automaticamente: todos.json
-Feito para copiar & colar no VS e subir no GitHub.
+
 """
 import sys
 import json
